@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: lightblue;
+  color: black;
+}
+div {
+  width: 960px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+header {
+  height: 200px;
+  background: lightgreen;
+}
+header h1 {
+  font-size: 25px;
+  text-align: center;
+  line-height: 150px;
+}
+nav {
+  background: red;
+  height: 60px;
+}
+nav h2 {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 5px;
+  line-height: 60px;
+}
+section {
+  width: 900px;
+  height: 500px;
+  background: rgb(237, 255, 159);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h4 {
+  width: 500px;
+  height: 250px;
+  background: lightpink;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h7 {
+  width: 500px;
+  height: 275px;
+  background: rgb(146, 255, 173);
+  float: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h6 {
+  float: left;
+}
+h8 {
+  height: 200px;
+  background: lightsalmon;
+}
+
+footer h9 {
+  background: lime;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+  padding: 20px;
+}
+footer h10 {
+  background: mediumspringgreen;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px;
+}
